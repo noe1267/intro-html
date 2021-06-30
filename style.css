@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Playfair+Display:900|Open+Sans');
 
 body {
-    
-    background-image: url('background.jpg');
+    background: #e9e9e9;
+    background-image: url('https://github.com/noe1267/intro-html/blob/82e3bedb6eb28ef749b09b758eb564cb52e2784d/background.jpg');
     background-size: cover;
     padding: 100px;
     font-family: 'Open Sans', sans-serif;
